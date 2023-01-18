@@ -72,5 +72,7 @@ I am a graduate student studying at the University of Central Florida specializi
 &nbsp;
 &nbsp;
 &nbsp;
+<br />
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wanyea&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
