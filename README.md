@@ -21,10 +21,44 @@
 I am a graduate student studying at the University of Central Florida specializing in Mixed Reality Engineering! <img src= "https://user-images.githubusercontent.com/61568218/213039435-3d951a60-9c71-473b-bacd-0e68018a6be0.png" width="30">
 
 
-- ❤️ My passions: All things software engineering and love to use technology to create a better world for all of us! 
+- ❤️ My passions: All things software engineering and love to use technology to create a better world for everyone! 
+
 - 🔭 Repos I'm working on the most right now: [Adventour](https://github.com/Wanyea/Adventour) and [VR-Engineering](https://github.com/Wanyea/VR-Engineering)! 
+
 - 👯 I’m looking to collaborate with: Anyone passionate and ambitious enough to believe in their dreams. 
+
+
 - 💬 My favorite quote at the moment: “Its important to have specific dreams. Dream Big. Dream without fear.” - Randy Pausch 
+
+
 - 😄 Pronouns: He/Him
+
+
 - ⚡ Fun fact: I've played tennis for about 6 years now so lets hit the courts sometime! 🎾
+
+
 - 📬 Ways to contact me: [Send me an email](mailto:wanyeabarbel@gmail.com)!
+
+---
+
+### :hammer_and_wrench: Languages and Tools:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP" alt="CPP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/61568218/213057063-85091bfe-78c6-4379-a975-2a2632e6cce7.png" title="Unity" alt="Unity" width="35" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" title="Salesforce" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/61568218/213056463-11d18f8f-f644-4733-9039-7dde919e839c.png" title="Apple" alt="Apple" width="35"height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
