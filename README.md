@@ -24,7 +24,7 @@ I am a graduate student studying at the University of Central Florida specializi
 
 - ❤️ My passions: All things software engineering and love to use technology to create a better world for everyone! 
 
-- 🔭 Repos I'm working on the most right now: [Adventour](https://github.com/Wanyea/Adventour) and [VR-Engineering](https://github.com/Wanyea/VR-Engineering)! 
+- 🔭 Repos I'm contributing to the most right now: [Adventour](https://github.com/Wanyea/Adventour) and [VR-Engineering](https://github.com/Wanyea/VR-Engineering)! 
 
 - 👯 I’m looking to collaborate with: Anyone passionate and ambitious enough to believe in their dreams. 
 
