@@ -2,6 +2,7 @@
   <img src="https://user-images.githubusercontent.com/61568218/213026145-a0f1a8fc-f02f-422f-89a9-302663d8d07c.gif" width="250" height="250"/>
 </div>
 
+<br />
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/wanyea/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
