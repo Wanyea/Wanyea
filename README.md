@@ -35,7 +35,7 @@ I am a graduate student studying at the University of Central Florida specializi
 - 😄 Pronouns: He/Him
 
 
-- ⚡ Fun fact: I've played tennis for about 6 years! Let's hit the courts sometime! 🎾
+- ⚡ Fun fact: I've been playing tennis for about 6 years! Let's hit the courts sometime! 🎾
 
 
 - 📬 Ways to contact me: [Send me an email](mailto:wanyeabarbel@gmail.com)!
