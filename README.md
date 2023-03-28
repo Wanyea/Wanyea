@@ -26,13 +26,13 @@ I am a graduate student studying at the University of Central Florida specializi
 
 - 🔭 Repos I'm contributing to the most right now: [Adventour](https://github.com/Wanyea/Adventour), [VR Engineering](https://github.com/Wanyea/VR-Engineering), and [3D User Interfaces for VR](https://github.com/Wanyea/3D-User-Interfaces-for-VR). Please check them all out! 😎
 
-- 👯 I’m looking to collaborate with: Anyone passionate and ambitious enough to believe in their dreams. 
+- 👯 I’m looking to collaborate with: Anyone passionate and ambitious enough to believe in their dreams! 
 
 
 - 💬 My favorite quote at the moment: “Its important to have specific dreams. Dream Big. Dream without fear.” - Randy Pausch 
 
 
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him/His
 
 
 - ⚡ Fun fact: I've been playing tennis for about 6 years! Let's hit the courts sometime! 🎾
