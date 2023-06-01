@@ -20,27 +20,28 @@
 
 ### 🔍 About me: 
 I am a graduate student studying at the University of Central Florida specializing in Mixed Reality Engineering! <img src= "https://user-images.githubusercontent.com/61568218/213039435-3d951a60-9c71-473b-bacd-0e68018a6be0.png" width="30">
+</br> Currently I am working as an R&D intern at Universal Creative ATI! <img src= https://github.com/Wanyea/ReadMeSource/super-nintendo-world-universal-studios.gif" width="30">
 
 
-- ❤️ My passions: All things software engineering and love to use technology to create a better world for everyone! 
+- ❤️ **My passions:** All things software engineering and love to use technology to create a better world for everyone! 
 
-- 🔭 Repos I'm contributing to the most right now: [Adventour](https://github.com/Wanyea/Adventour), [VR Engineering](https://github.com/Wanyea/VR-Engineering), and [3D User Interfaces for VR](https://github.com/Wanyea/3D-User-Interfaces-for-VR). Please check them all out! 😎
+- 🔭 **Repos I'm contributing to the most right now:** [Adventour](https://github.com/Wanyea/Adventour), [VR Engineering](https://github.com/Wanyea/VR-Engineering), [3D User Interfaces for VR](https://github.com/Wanyea/3D-User-Interfaces-for-VR). Please check them all out! 😎
 
-- 👯 I’m looking to collaborate with: Anyone passionate and ambitious enough to believe in their dreams! 
-
-
-- 💬 My favorite quote at the moment: “Its important to have specific dreams. Dream Big. Dream without fear.” - Randy Pausch 
+- 👯 **I’m looking to collaborate with:** Anyone passionate and ambitious enough to believe in their dreams! 
 
 
-- 😄 Pronouns: He/Him/His
+- 💬 **My favorite quote at the moment:** “Its important to have specific dreams. Dream Big. Dream without fear.” - Randy Pausch 
 
 
-- ⚡ Fun fact: I've been playing tennis for about 6 years! Let's hit the courts sometime! 🎾
+- 😄 **Pronouns:** He/Him/His
 
 
-- 📬 Ways to contact me: [Send me an email](mailto:wanyeabarbel@gmail.com)!
+- ⚡ **Fun fact:** I've been playing tennis for about 6 years! Let's hit the courts sometime! 🎾
 
-- 📝 Learn more about my experiences: [Check out my resume](https://github.com/Wanyea/Wanyea/files/10441019/WanyeaBarbelResumeUpdated.pdf)!
+
+- 📬 **Ways to contact me:** [Send me an email](mailto:wanyeabarbel@gmail.com)!
+
+- 📝 **Learn more about my experiences:** [Check out my resume](https://github.com/Wanyea/Wanyea/files/10441019/WanyeaBarbelResumeUpdated.pdf)!
 
 ---
 
