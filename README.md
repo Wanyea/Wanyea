@@ -20,7 +20,7 @@
 
 ### 🔍 About me: 
 I am a graduate student studying at the University of Central Florida specializing in Mixed Reality Engineering! <img src= "https://user-images.githubusercontent.com/61568218/213039435-3d951a60-9c71-473b-bacd-0e68018a6be0.png" width="30">
-</br> Currently I am working as an R&D intern at Universal Creative ATI! <img src= https://github.com/Wanyea/ReadMeSource/super-nintendo-world-universal-studios.gif" width="30">
+</br> Currently I am working as an R&D intern at Universal Creative ATI! <img src= https://github.com/Wanyea/Wanyea/super-nintendo-world-universal-studios.gif" width="30">
 
 
 - ❤️ **My passions:** All things software engineering and love to use technology to create a better world for everyone! 
