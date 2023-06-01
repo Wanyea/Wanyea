@@ -24,7 +24,7 @@ I am a graduate student studying at the University of Central Florida specializi
 <img align="center" src= "source/super-nintendo-world-universal-studios.gif" width="100px">
 
 ---
-- ❤️ **My passions:** All things software engineering and love to use technology to create a better world for everyone! 
+- ❤️ **My passions:** All things software engineering and I love to use technology to enhance the human experience! 
 
 - 🔭 **Repos I'm contributing to the most right now:** [Adventour](https://github.com/Wanyea/Adventour), [VR Engineering](https://github.com/Wanyea/VR-Engineering), [3D User Interfaces for VR](https://github.com/Wanyea/3D-User-Interfaces-for-VR). Please check them all out! 😎
 
