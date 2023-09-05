@@ -26,7 +26,7 @@ I am a graduate student studying at the University of Central Florida specializi
 ---
 - ❤️ **My passions:** All things software engineering and I love to use technology to enhance the human experience! 
 
-- 🔭 **Repos I'm contributing to the most right now:** [Adventour](https://github.com/Wanyea/Adventour), [VR Engineering](https://github.com/Wanyea/VR-Engineering), [3D User Interfaces for VR](https://github.com/Wanyea/3D-User-Interfaces-for-VR). Please check them all out! 😎
+- 🔭 **Repos I'm contributing to the most right now:** [Adventour](https://github.com/Wanyea/Adventour), [AR Engineering](https://github.com/Wanyea/AR-Engineering), [3D User Interfaces for VR](https://github.com/Wanyea/3D-User-Interfaces-for-VR), and [Computer Vision](https://github.com/EricWang12/CAP6411Final). Please check them all out! 😎
 
 - 👯 **I’m looking to collaborate with:** Anyone passionate and ambitious enough to believe in their dreams! 
 
