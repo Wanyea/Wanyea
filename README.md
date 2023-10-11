@@ -42,7 +42,7 @@ I am a graduate student studying at the University of Central Florida specializi
 
 - 📬 **Ways to contact me:** [Send me an email](mailto:wanyeabarbel@gmail.com)!
 
-- 📝 **Learn more about my experiences:** [Check out my resume](https://github.com/Wanyea/Wanyea/files/10441019/WanyeaBarbelResumeUpdated.pdf)!
+- 📝 **Learn more about my experiences:** [Check out my resume](https://github.com/Wanyea/Wanyea/files/10441019/WanyeaBarbelResumeUpdated.pdf](https://github.com/Wanyea/Wanyea/blob/main/source/1693864754414.pdf))!
 
 ---
 
