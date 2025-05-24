@@ -42,7 +42,7 @@ I am a SWE with a MS in Computer Science from the University of Central Florida 
 
 - 📬 **Ways to contact me:** [Send me an email](mailto:wanyeabarbel@gmail.com)!
 
-- 📝 **Learn more about my experiences:** [Check out my resume](https://github.com/Wanyea/Wanyea/blob/main/source/1693864754414.pdf)!
+- 📝 **Learn more about my experiences:** [Check out my LinkedIn](https://www.linkedin.com/in/wanyea/)!
 
 ---
 
