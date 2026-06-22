@@ -26,9 +26,9 @@ I am a SWE with a MS in Computer Science from the University of Central Florida 
 ---
 - ❤️ **My passions:** All things software engineering and I love to use technology to enhance the human experience! 
 
-- 🔭 **Repos I'm contributing to the most right now:** [Adventour](https://github.com/Wanyea/Adventour), [AR Engineering](https://github.com/Wanyea/AR-Engineering), [3D User Interfaces for VR](https://github.com/Wanyea/3D-User-Interfaces-for-VR), [Computer Vision](https://github.com/EricWang12/CAP6411Final), and [Sensor Fusion 3DUI](https://github.com/Wanyea/Sensor-Fusion-3DUI). Please check them all out! 😎
+- 🔭 **Repos I'm contributing to the most right now:** [Adventour](https://github.com/Wanyea/Adventour-v2) and [NeuroGaze](https://github.com/Wanyea/NeuroGaze). Please check them all out! 😎
 
-- 👯 **I’m looking to collaborate with:** Anyone passionate and ambitious willing to challange expections in current MRE technologies! 
+- 👯 **I’m looking to collaborate with:** Anyone passionate and ambitious willing to challange expections in current BCI technologies! 
 
 
 - 💬 **My favorite quote at the moment:** “Its important to have specific dreams. Dream Big. Dream without fear.” - Randy Pausch 
